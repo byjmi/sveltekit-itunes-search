@@ -8,7 +8,7 @@
 
 <section>
 	<div class="flex flex-col items-center justify-center">
-		<div class="text-5xl text-center text-white font-semibold mb-12">Search for an artist</div>
+		<div class="text-5xl text-center text-white font-semibold mb-12">Search an artist</div>
 		<div
 			class="w-full flex rounded-md bg-white bg-opacity-20 p-1 border border-white border-opacity-30"
 		>

@@ -2,9 +2,7 @@
 	import { page } from '$app/stores';
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
-
 	let songResults = [];
-
 	onMount(async () => {
 		let searched = $page.params.searched;
 		const itunesSearched = await fetch(

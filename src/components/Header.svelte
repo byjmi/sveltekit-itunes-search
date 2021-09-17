@@ -1,5 +1,5 @@
 <script>
-	import logo from '/apple-logo.png';
+	import logo from '../../static/apple-logo.png';
 </script>
 
 <div class="bg-black w-full p-2 px-10 md:px-20 lg:px-52">
